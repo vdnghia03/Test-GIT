@@ -1,0 +1,1 @@
+print("Toi la chinh toi")
